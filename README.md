@@ -80,7 +80,8 @@
 
 При нажатии на эти кнопки бот выводит список соответствующих заявок на отпуска от сотрудников, для каждой заявки выводится ФИО и должность сотрудника, даты отпуска, статус:
 
-![image](https://github.com/AkkForParactic/paractic/assets/147721446/dcfca5d1-6656-4316-804d-a0378aecf12c)
+![image](https://github.com/AkkForParactic/paractic/assets/147721446/cc963aba-32ce-4d9f-bb09-caa9da7bfaaf)
+
 
 
 ![image](https://github.com/AkkForParactic/paractic/assets/147721446/301033ea-bc6d-420d-86d2-989fb3bd94eb)
